@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kassidy Chaikin"
 title_separator          : "-"
 name                     : &name "Kassidy Chaikin"
 url                      : https://kassidychaikin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -69,7 +69,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "kchaiki1@binghamton.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
