@@ -10,13 +10,14 @@ main:
    # url: /teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: /portfolio/S&P 500 Project.pdf
+    url: /portfolio/MATH-590S-Final-Project-Blog-Post-.html
         
  # - title: "Blog Posts"
    # url: /year-archive/
     
   - title: "CV"
-    url: /cv/Kassidy Chaikin CV.pdf
+    url: /CV/Kassidy Chaikin CV.pdf
     
   #- title: "Guide"
    # url: /markdown/
