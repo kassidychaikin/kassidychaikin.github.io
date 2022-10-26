@@ -83,7 +83,7 @@ author:
   name             : "Kassidy Chaikin"
   avatar           : "IMG_7677.png"
   bio              : "Graduate student at Binghamton University"
-  location         : "Location"
+  #location         : "Location"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
