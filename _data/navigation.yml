@@ -11,10 +11,10 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/S&P 500 Project.pdf
-    url: /portfolio/MATH-590S-Final-Project-Blog-Post-.html
+  
         
- # - title: "Blog Posts"
-   # url: /year-archive/
+  - title: "Blog Posts"
+    url: /portfolio/MATH-590S-Final-Project-Blog-Post-.html
     
   - title: "CV"
     url: /CV/Kassidy Chaikin CV.pdf
